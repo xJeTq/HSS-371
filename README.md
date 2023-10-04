@@ -1,1 +1,3 @@
-ALl of the projects I completed for Computers & Society (HSS 371) are stored in this GitHub repository.
+This is my midterm project for HSS 371 (Computers & Society)
+
+Here is the link to my midterm project: 
